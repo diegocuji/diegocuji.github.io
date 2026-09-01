@@ -7,7 +7,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-01-01
 venue: 'Journal of Oceanic Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://diegocuji.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'D. A. Cuji and M. Stojanovic, "Transmit Beamforming for Underwater Acoustic OFDM Systems," in IEEE Journal of Oceanic Engineering, vol. 49, no. 1, pp. 145-162, Jan. 2024, doi: 10.1109/JOE.2023.3295474.'
 ---
