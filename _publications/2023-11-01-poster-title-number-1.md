@@ -1,5 +1,5 @@
 ---
-title: "Can We See the Underwater Acoustic Propagation Paths?"
+title: "Path-Based Frequency Offset Estimation for Acoustic OFDM Systems"
 collection: publications
 category: posters
 permalink: /publication/2023-11-01-poster-title-number-1
