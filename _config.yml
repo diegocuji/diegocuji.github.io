@@ -23,13 +23,13 @@ repository               : "diegocuji/diegocuji.github.io"
 author:
   # Biographic information
   avatar           : "profilediego.png"
-  name             : "Diego Cuji"
+  name             : "Diego A. Cuji"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Electrical Engineering"
-  location         : "Boston, MA"
-  employer         : "Northeastern University"
+  bio              : "Postdoctoral Fellow"
+  location         : "Stony Brook, New York"
+  employer         : "Stony Brook University"
   uri              : # URL
-  email            : "cujidutan.d@northeastern.edu" 
+  email            : "diego.cujidutan@stonybrook.edu" 
 
   # Academic websites
   academia         : # URL
@@ -79,12 +79,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+  #   title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  # conferences:
+  #   title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
