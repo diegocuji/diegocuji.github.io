@@ -16,5 +16,5 @@ Wireless communications in Doppler-distorted channels \\
 Machine learning
 
 ### News
-- [9/1/2025] I joined Stony Brook University as a Lecturer and a Postdoctoral Fellow within ECE.
+- [9/1/2025] I joined Stony Brook University as a Lecturer and a Postdoctoral Fellow within the ECE Department.
 - [7/1/2025] I successfully defended my Ph.D. dissertation.
