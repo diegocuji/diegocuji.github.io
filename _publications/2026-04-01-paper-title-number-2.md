@@ -7,7 +7,7 @@ permalink: /publication/2026-04-01-paper-title-number-2
 date: 2026-04-01
 venue: 'Journal of Oceanic Engineering'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'D. A. Cuji and M. Stojanovic, "Path-Specific Beamforming and Nonuniform Doppler Compensation for Underwater Acoustic Communications," in IEEE Journal of Oceanic Engineering, vol. 51, no. 2, pp. 1442-1457, April 2026, doi: 10.1109/JOE.2025.3648608.'
 ---
