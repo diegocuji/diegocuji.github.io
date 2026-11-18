@@ -26,7 +26,7 @@ author:
   name             : "Diego A. Cuji"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow"
-  location         : "Stony Brook, New York"
+  # location         : "Stony Brook, New York"
   employer         : "Stony Brook University"
   uri              : # URL
   email            : "diego.cujidutan@stonybrook.edu" 
