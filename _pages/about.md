@@ -16,5 +16,7 @@ Wireless communications in Doppler-distorted channels \\
 Machine learning
 
 ### News
+- [11/18/2026] Our paper "[*Universal adaptive beamforming: A Bayesian approach*](https://pubs.aip.org/asa/poma/article/61/1/070005/3408920/Universal-adaptive-beamforming-A-Bayesian-approach){:target="_blank"}" received the Best Paper Award from POMA (Proceedings of Meetings on Acoustics).
+- [11/13/2026] I gave a talk at Tufts University as part of the Guest Lecture series.
 - [9/1/2025] I joined Stony Brook University as a Lecturer and a Postdoctoral Fellow within the ECE Department.
 - [7/1/2025] I successfully defended my Ph.D. dissertation.
