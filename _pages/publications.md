@@ -48,5 +48,5 @@ author_profile: true
 
 ## Posters
 
-1. "Can we see the underwater acoustic propagation paths?" *Acoustical Society of America (ASA) School*, 2026. [[Poster]](/files/poster2.pdf){:target="_blank"}
-2. "Path-based frequency offset estimation for acoustic OFDM systems," *57th Asilomar Conference on Signals, Systems, and Computers*, 2023. [[Poster]](/files/poster1.pdf){:target="_blank"}
+1. "Can we see the underwater acoustic propagation paths?" *Acoustical Society of America (ASA) School*, 2026. [[PDF]](/files/poster2.pdf){:target="_blank"}
+2. "Path-based frequency offset estimation for acoustic OFDM systems," *57th Asilomar Conference on Signals, Systems, and Computers*, 2023. [[PDF]](/files/poster1.pdf){:target="_blank"}
