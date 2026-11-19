@@ -22,7 +22,7 @@ author_profile: true
 ## Conference Articles
 
 1. **D. A. Cuji**, A. C. Singer, and J. R. Buck, "[Universal adaptive beamforming: A Bayesian approach](https://pubs.aip.org/asa/poma/article/61/1/070005/3408920/Universal-adaptive-beamforming-A-Bayesian-approach){:target="_blank"}," *Proceedings of Meetings on Acoustics (POMA)*, vol. 61, 070005, 2026. **Best Paper Award**
-2. **D. A. Cuji**, A. C. Singer, and M. Stojanovic, "[Transmit beamforming for high-rate underwater acoustic communications](https://ieeexplore.ieee.org/document/11726046){:target="_blank"}," *Eighth Underwater Communications and Networking Conference (UComms)*, Sestri Levante, Italy, pp. 1–5, 2026.
+2. **D. A. Cuji**, A. C. Singer, and M. Stojanovic, "Transmit beamforming for high-rate underwater acoustic communications," *Eighth Underwater Communications and Networking Conference (UComms)*, Sestri Levante, Italy, pp. 1–5, 2026.
 3. **D. A. Cuji**, M. Stojanovic, and A. C. Singer, "A method for adaptive channel estimation," *OCEANS 2025 Brest*, pp. 1–5, 2025.
 4. **D. A. Cuji**, M. Stojanovic, and A. C. Singer, "Path-specific angle and Doppler tracking in dynamic underwater channels," *OCEANS 2025 Brest*, pp. 1–7, 2025.
 5. Z. Li, **D. A. Cuji**, K. R. Duffy, and M. Stojanovic, "Guessing random additive noise decoding for underwater acoustic communications," *Proceedings of the 18th International Conference on Underwater Networks & Systems (WUWNet)*, 2024.
@@ -33,7 +33,7 @@ author_profile: true
 10. Z. Li, **D. A. Cuji**, Y. Kida, M. Deguchi, T. Shimura, and M. Stojanovic, "Frequency offset estimation for high data rate acoustic MIMO-OFDM systems," *OCEANS 2023 Limerick*, pp. 1–4, 2023.
 11. **D. A. Cuji**, Z. Li, Y. Kida, M. Deguchi, T. Shimura, and M. Stojanovic, "Frequency offset compensation for vertical underwater acoustic communication with a deep submersible," *Proceedings of the 16th International Conference on Underwater Networks & Systems (WUWNet)*, 2022.
 12. **D. A. Cuji**, Z. Li, and M. Stojanovic, "Broadband acoustic beamforming for OFDM systems," *Proceedings of the 16th International Conference on Underwater Networks & Systems (WUWNet)*, 2022.
-13. Z. Li, **D. A. Cuji**, and M. Stojanovic, "Combined code division and space division multiple access for broadband acoustic networks," *Proceedings of the 16th International Conference on Underwater Networks & Systems (WUWNet)*, 2022.
+13. Z. Li, **D. A. Cuji**, and M. Stojanovic, "Combined code division and space division multiple access for broadband acoustic networks," *Proceedings of the 16th International Conference on Underwater Networks & Systems (WUWNet)*, 2022. **Best Paper Award**
 14. Z. Li, **D. A. Cuji**, and M. Stojanovic, "A joint angle and delay detection scheme using OFDM over broadband acoustic links," *IEEE International Symposium on Phased Array Systems & Technology (PAST)*, 2022.
 15. **D. A. Cuji**, Z. Li, and M. Stojanovic, "Multi-user communications for acoustic OFDM: A broadband beamforming approach," *Sixth Underwater Communications and Networking Conference (UComms)*, pp. 1–4, 2022.
 16. **D. A. Cuji**, Z. Li, and M. Stojanovic, "ACT: An acoustic communications testbed," *IEEE INFOCOM 2022 – IEEE Conference on Computer Communications Workshops*, 2022.
