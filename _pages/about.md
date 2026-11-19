@@ -17,6 +17,6 @@ Machine learning
 
 ### News
 - [11/18/2026] Our paper "[*Universal adaptive beamforming: A Bayesian approach*](https://pubs.aip.org/asa/poma/article/61/1/070005/3408920/Universal-adaptive-beamforming-A-Bayesian-approach){:target="_blank"}" received the Best Paper Award from POMA (Proceedings of Meetings on Acoustics).
-- [11/13/2026] I gave a talk at Tufts University as part of the Guest Lecture series.
+- [11/13/2026] I gave a talk, "*Underwater Acoustic Communication in High-Doppler Regimes*," at Tufts University as part of the Guest Lecture series.
 - [9/1/2025] I joined Stony Brook University as a Lecturer and a Postdoctoral Fellow within the ECE Department.
-- [7/1/2025] I successfully defended my Ph.D. [dissertation](https://repository.library.northeastern.edu/files/neu:ms39s8036){:target="_blank"}.
+- [7/1/2025] I successfully defended my Ph.D. dissertation, "[*Multipath Beamforming in Time-Varying Channels with Applications to Underwater Acoustics*](https://repository.library.northeastern.edu/files/neu:ms39s8036){:target="_blank"}."
